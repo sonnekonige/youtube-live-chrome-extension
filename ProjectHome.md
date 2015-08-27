@@ -1,0 +1,1 @@
+This extension uses the YouTube GData API to bring you a list of current live streams on YouTube. It also allows you to be notified when your favorite YouTube channels are streaming live on YouTube or to add their events to your Google calendar.
